@@ -1,0 +1,35 @@
+img {
+	width: 96px;
+	height: 96px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+#experience, #skills, #education {
+	border-radius:5px;
+	border: 8px double black;
+	background-color: #42f45f;
+}
+
+#introduction, #submission, h1, h2 {
+	text-align: center;
+}
+
+h1, h2 {
+	color: blue;
+}
+
+head, body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 14px;
+	background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+}
+
+hr {
+	border-color: red;
+}
+
+#subjects {
+	list-style-type: disc;
+}
